@@ -1,0 +1,4 @@
+opencv-contrib-python
+numpy
+streamlit
+scikit-learn
